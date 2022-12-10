@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	printf("\"Programming is like building a multilingual puzzle");
+	printf("\"With proper grammar, but the outcome is a piece of art,");
 	return (0);
 
 }
