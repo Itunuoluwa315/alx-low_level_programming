@@ -4,7 +4,7 @@
 /*
  * main - prints all the numbers of base 16 in lowercase
  *
- * Returns: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
